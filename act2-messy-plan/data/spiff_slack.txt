@@ -1,0 +1,12 @@
+#sales  (Slack export)
+
+Tom Alvarez  Nov 2nd at 8:47 AM
+:rocket: NOVEMBER SPIFF :rocket:
+$500 for every NEW LOGO deal over $50K that closes in November. Paid on top of commission. Let's go!!
+    12 replies  ·  :fire: 18  :moneybag: 9
+
+Priya Shah  Nov 2nd at 8:52 AM
+does it count if it's a renewal that's basically a new team?
+
+Tom Alvarez  Nov 2nd at 9:03 AM
+@Priya Shah new logo = new_logo is Yes in Salesforce. renewals don't count
